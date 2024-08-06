@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robot-simulator/static/css/main.dcefb2ac.css",
+    "main.js": "/robot-simulator/static/js/main.ad88fc01.js",
+    "static/media/robot.png": "/robot-simulator/static/media/robot.29944ee2b0f25a27ef75.png",
+    "index.html": "/robot-simulator/index.html",
+    "main.dcefb2ac.css.map": "/robot-simulator/static/css/main.dcefb2ac.css.map",
+    "main.ad88fc01.js.map": "/robot-simulator/static/js/main.ad88fc01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcefb2ac.css",
+    "static/js/main.ad88fc01.js"
+  ]
+}
